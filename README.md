@@ -1,4 +1,4 @@
-# Educational Site Website
+# Educational Site
 
 Live site link - https://learnacademia.netlify.app/
 
