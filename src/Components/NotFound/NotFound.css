@@ -1,0 +1,8 @@
+.design img{
+    width:400px;
+    height:400px;
+    transition: transform 1s;
+}
+.design img:hover{
+    transform: rotate(360deg);
+}

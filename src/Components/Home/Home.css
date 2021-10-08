@@ -1,0 +1,31 @@
+.cover-design{
+    background-image: url('../../images/cover.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height:500px;
+}
+.heading-design{
+    font-size:46px;
+    padding: 10%;
+    padding-bottom: 0px;
+    padding-left: 2%;
+    padding-right: 30%;
+    color: rgba(255, 217, 0, 0.788);
+}
+.subheading-design{
+    padding-left: 2%;
+    margin:0px;
+    font-size:26px;
+    color: rgba(255, 217, 0, 0.788);
+}
+
+.grid-design h2{
+    color:coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}

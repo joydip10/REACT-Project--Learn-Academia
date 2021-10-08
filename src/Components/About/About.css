@@ -1,0 +1,31 @@
+.header-design h2{
+    color:coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.founder1, .founder2, .founder3{
+    padding: 5%;
+}
+
+img{
+    height:300px;
+    width:300px;
+}
+
+.heading{
+    color:coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: cornsilk;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.text{
+    padding: 10px;
+}
+
